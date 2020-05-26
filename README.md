@@ -14,7 +14,7 @@ The following code samples are available:
 
 All the samples use ConnectyCube SDK. The following tech integration documentation is available:
 
-- [JS WEB SDK documentation](https://developers.connectycube.com/cordova)
+- [Cordova SDK documentation](https://developers.connectycube.com/cordova)
 - [Authentication and Users](https://developers.connectycube.com/cordova/authentication-and-users)
 - [Chat API](https://developers.connectycube.com/cordova/messaging)
 - [P2P Calling API](https://developers.connectycube.com/cordova/videocalling)
