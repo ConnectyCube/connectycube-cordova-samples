@@ -1,25 +1,25 @@
-# Chat and Video Chat code samples for Cordova for ConnectyCube platform
+# ConnectyCube Chat and Video Chat code samples for Web
 
-This project contains chat and video chat code samples for Cordova environments and based on [ConnectyCube](https://connectycube.com/) communication platform.
+This project contains chat and video chat code samples for JavaScript Cordova environment and based on [ConnectyCube](https://connectycube.com/) communication platform.
 
 The following code samples are available:
 
-- [Video Chat code sample](https://github.com/ConnectyCube/connectycube-cordova-samples/tree/master/sample-videochat-cordova)
+- [P2P Calling code sample](https://github.com/ConnectyCube/connectycube-cordova-samples/tree/master/sample-videochat-cordova)
 
-<kbd><img alt="Cordova video chat code sample, login" src="https://developers.connectycube.com/docs/_images/code_samples/cordova/cordova_codesample_video_login.PNG" width="200" /></kbd> <kbd><img alt="Cordova video chat code sample, select users" src="https://developers.connectycube.com/docs/_images/code_samples/cordova/cordova_codesample_video_select_users.PNG" width="200" /></kbd> <kbd><img alt="Cordova video chat code sample, video chat" src="https://developers.connectycube.com/docs/_images/code_samples/cordova/cordova_codesample_video_video.PNG" width="200" /></kbd>
+- [Conference Calling code sample](https://github.com/ConnectyCube/connectycube-cordova-samples/tree/master/sample-videochat-conf-cordova)
 
-- Chat code sample
-
-coming soon
+- Chat code sample - coming soon
 
 ## Documentation
 
 All the samples use ConnectyCube SDK. The following tech integration documentation is available:
 
-- [Cordova SDK documentation](https://developers.connectycube.com/cordova/)
-- [Chat API](https://developers.connectycube.com/cordova/messaging)
-- [Video Chat API](https://developers.connectycube.com/cordova/videocalling)
+- [JS WEB SDK documentation](https://developers.connectycube.com/cordova)
 - [Authentication and Users](https://developers.connectycube.com/cordova/authentication-and-users)
+- [Chat API](https://developers.connectycube.com/cordova/messaging)
+- [P2P Calling API](https://developers.connectycube.com/cordova/videocalling)
+- [Conference Calling API](https://developers.connectycube.com/cordova/videocalling-conference)
+- [Push Notifications API](https://developers.connectycube.com/cordova/push-notifications)
 
 ## Have an issue?
 
@@ -28,3 +28,4 @@ Got troubles with integration? Just create an issue at [Issues page](https://git
 ## License
 
 See [LICENSE](LICENSE)
+
