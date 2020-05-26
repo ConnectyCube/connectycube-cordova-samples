@@ -1,13 +1,14 @@
 # Video Chat code sample for Cordova for ConnectyCube platform
 
-This README introduces [ConnectyCube](https://connectycube.com) Video Chat code sample for Cordova
+This README introduces [ConnectyCube](https://connectycube.com) P2P Calling code sample for Web.
 
 Project contains the following features implemented:
 
 - User authorization
-- Group video calls (up to 4 users)
+- Video calls up to 4 users
 - Mute/unmute microphone
-- Switch cameras
+- Switch camera 
+- Snack bars to notify users about changes
 
 ## Documentation
 
@@ -32,6 +33,11 @@ The above command will automatically run your app on the Simulator. If you want 
 
 * `cordova clean ios && cordova run ios --device`
 * `cordova clean android && cordova run android --device`.
+
+## Build your own VideoChat app
+
+To make the sample works for your own app, please follow the guide how to build the sample from scratch - https://developers.connectycube.com/cordova/code-samples-videochat-cordova
+
 
 ## Can't build yourself?
 
