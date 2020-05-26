@@ -22,6 +22,7 @@
 #call,
 #videochat {
   background-color: #000000;
+  z-index: 200;
 }
 
 #login-logo {
@@ -256,6 +257,7 @@
   align-items: stretch;
   justify-items: stretch; */
   grid-auto-columns: 1fr;
+  z-index: 100;
 }
 
 @media screen and (orientation:portrait) {

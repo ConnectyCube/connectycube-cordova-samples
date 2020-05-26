@@ -26,12 +26,11 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     }
   ];
   module.exports.metadata = {
-    "cordova-plugin-whitelist": "1.3.4",
     "cordova-plugin-device": "2.0.3",
     "cordova-custom-config": "5.1.0",
     "cordova-plugin-statusbar": "2.4.3",
     "cordova-plugin-android-permissions": "1.0.2",
     "cordova-plugin-wkwebview-engine": "1.2.1",
-    "cordova-plugin-iosrtc": "6.0.11"
+    "cordova-plugin-iosrtc": "6.0.12"
   };
 });

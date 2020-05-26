@@ -18,7 +18,7 @@
     "cordova-ios": "5.1.1",
     "cordova-plugin-android-permissions": "^1.0.2",
     "cordova-plugin-device": "^2.0.3",
-    "cordova-plugin-iosrtc": "6.0.9",
+    "cordova-plugin-iosrtc": "https://github.com/cordova-rtc/cordova-plugin-iosrtc#ca3eb4b720b6cf8442e19732fdc3e98bf220e4b9",
     "cordova-plugin-statusbar": "^2.4.3",
     "cordova-plugin-wkwebview-engine": "^1.2.1"
   },
