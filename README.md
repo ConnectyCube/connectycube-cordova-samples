@@ -10,6 +10,8 @@ The following code samples are available:
 
 - Chat code sample - coming soon
 
+Original source code of the code samples (not minified) can be found here https://github.com/ConnectyCube/connectycube-web-samples
+
 ## Documentation
 
 All the samples use ConnectyCube SDK. The following tech integration documentation is available:
