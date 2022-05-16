@@ -1,0 +1,36 @@
+{
+  "name": "com.sample.chat",
+  "displayName": "SampleChatCordova",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "config": "cd chat-angular && npm run config",
+    "build": "cd chat-angular && npm run build && cd .. && sh ./add_cordova_js.sh"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "10.1.2",
+    "cordova-ios": "6.2.0"
+  },
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-device": {},
+      "cordova-custom-config": {},
+      "cordova-plugin-android-permissions": {}
+    }
+  },
+  "devDependencies": {
+    "cordova-custom-config": "^5.1.1",
+    "cordova-plugin-android-permissions": "^1.1.3",
+    "cordova-plugin-device": "^2.1.0"
+  }
+}
