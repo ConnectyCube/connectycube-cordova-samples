@@ -5,6 +5,7 @@
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
   "scripts": {
+    "install_dependencies": "cd chat-angular && npm install",
     "config": "cd chat-angular && npm run config",
     "build": "cd chat-angular && npm run build && cd .. && sh ./add_cordova_js.sh"
   },
