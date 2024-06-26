@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.sample.chat" version="1.0.0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>SampleChatCordova</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <platform name="ios">
+      <custom-config-file parent="NSPhotoLibraryUsageDescription" platform="ios" target="*-Info.plist">
+        <string>Access to photo library for file attachments</string>
+      </custom-config-file>
+      <custom-config-file parent="NSCameraUsageDescription" platform="ios" target="*-Info.plist">
+        <string>Access to camera for file attachments</string>
+      </custom-config-file>
+    </platform>
+
+    <platform name="android">
+      <custom-preference name="android-minSdkVersion" value="21" />
+      <custom-preference name="android-targetSdkVersion" value="30" />
+      <custom-config-file parent="/*" target="AndroidManifest.xml">
+          <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+          <uses-permission android:name="android.permission.CAMERA" />
+          <uses-permission android:name="android.permission.INTERNET" />
+          <uses-feature android:name="android.hardware.camera" />
+      </custom-config-file>
+    </platform>
+</widget>

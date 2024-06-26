@@ -278,3 +278,10 @@ fastlane/test_output
 iOSInjectionProject/
 
 *.xcarchive
+
+#environment
+environment.ts
+environment.prod.ts
+
+sample-chat-cordova/www/*
+sample-chat-cordova/www/*/
