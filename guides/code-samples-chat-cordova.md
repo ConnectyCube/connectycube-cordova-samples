@@ -1,13 +1,4 @@
----
-title: Cordova Chat code sample - How To guide
-description: A complete guide of how to run origin Chat code sample for browser on Cordova/PhoneGap environment.
-head:
-  - tag: title
-    content: Cordova Chat code sample - 'How To' guide | Connectycube
-sidebar: 
-    label: Chat code samples
-    order: 4
----
+# Cordova Chat code sample - How To guide
 
 Here we explain how to run origin [Chat code sample for browser](/js/code-samples#chat-code-sample) on [Cordova/PhoneGap environment](https://cordova.apache.org/#getstarted)
 

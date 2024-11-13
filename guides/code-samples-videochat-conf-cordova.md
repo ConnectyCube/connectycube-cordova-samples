@@ -1,13 +1,4 @@
----
-title: Cordova Conference Video calling code sample - How To guide
-description: A complete guide of how to run origin Conference Video calling code sample for browser on Cordova / PhoneGap environment | Connectycube
-head:
-  - tag: title
-    content: Cordova Conference Video calling code sample - 'How To' guide
-sidebar: 
-    label: Conference Video calling code samples
-    order: 6
----
+# Cordova Conference Video calling code sample - How To guide
 
 Here we explain how to run origin [Conference Video calling code sample for browser](/js/code-samples#conferencing-video-chat-code-sample) on [Cordova/PhoneGap environment](https://cordova.apache.org/#getstarted)
 

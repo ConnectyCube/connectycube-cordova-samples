@@ -1,13 +1,4 @@
----
-title: Cordova Video Chat code sample - How To guide
-description: A complete guide of how to run origin VideoChat code sample for browser on Cordova / PhoneGap environment.
-head:
-  - tag: title
-    content: Cordova Video Chat code sample - 'How To' guide | Connectycube
-sidebar: 
-    label: Video Chat code samples
-    order: 5
----
+# Cordova Video Chat code sample - How To guide
 
 Here we explain how to run origin [VideoChat code sample for browser](/js/code-samples#p2p-video-chat-code-sample) on [Cordova/PhoneGap environment](https://cordova.apache.org/#getstarted)
 
