@@ -1,0 +1,1 @@
+sed -i '' 's,<meta charset="utf-8">,<meta charset="utf-8"><script type="text/javascript" src="cordova.js"></script>,g' www/index.html
