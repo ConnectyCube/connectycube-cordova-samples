@@ -2,8 +2,6 @@
 
 Here we explain how to run origin [Conference Video calling code sample for browser](/js/code-samples#conferencing-video-chat-code-sample) on [Cordova/PhoneGap environment](https://cordova.apache.org/#getstarted)
 
-> Complete Conference Video calling API integration guide for Web/Javascript and Hybrid apps is [here](/js/videocalling-conference)
-
 ## Integration details
 
 1. Make sure you have the latest Cordova installed:
@@ -227,4 +225,4 @@ The following tools will help you debug your Cordova application:
 
 ## Can't build yourself?
 
-Got troubles with building Cordova code sample? Just create an issue at [Issues page](https://github.com/ConnectyCube/connectycube-cordova-samples/issues) - we will create the sample for you. For FREE!
+Got troubles with building Cordova code sample? Just create an issue at [Issues page](https://github.com/ConnectyCube/connectycube-cordova-samples/issues) - we will create the sample for you.
